@@ -1,0 +1,6 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🙋 提问 & 讨论
+    url: https://github.com/<your-org>/<your-repo>/discussions
+    about: 使用 Discussions 页面进行非 bug 反馈或提问
+

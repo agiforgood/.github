@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
   - name: 🙋 提问 & 讨论
-    url: https://github.com/agiforgood/agent-system/discussions
+    url: https://github.com/agiforgood/agent-system/issues
     about: 使用 Discussions 页面进行非 bug 反馈或提问
 

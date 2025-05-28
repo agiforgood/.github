@@ -1,6 +1,6 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 讨论或支持
-    url: https://github.com/agiforgood/discussions
-    about: 若非 Bug 或功能请求，请在 Discussions 区讨论
+  - name: 🙋 提问 & 讨论
+    url: https://github.com/agiforgood/agent-system/discussions
+    about: 使用 Discussions 页面进行非 bug 反馈或提问
 

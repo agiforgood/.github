@@ -1,12 +1,12 @@
 # 西湖区智能向善社会创新网络中心
 
-我们致力于推动科技赋能公益，围绕 **技术工具开发** 与 **社会创新实践**，打造面向社会价值的产品与工程。
+智能向善社会创新网络是一个新型非营利组织，没有股东、没有员工、没有金钱激励，以纯粹极致的理想主义，致力于汇聚具备专业能力与公益热情的志愿者，激活他们的“认知盈余”，构建贡献、协作与声誉机制的社会创新网络，用创造性的方式解决重大社会问题。
 
 ## 🌐 主要项目
 
-### 1️⃣ 官网（Official Website）
+### 1️⃣ [智能向善官网](https://westlakeaiforgood.com/)
 
-为组织对外展示提供平台，涵盖项目介绍、动态资讯等内容。
+作为组织的门户网站，智能向善官网是志愿者协作、任务发布的中枢平台。
 
 * 前端仓库：[westlake-web](https://github.com/agiforgood/westlake-web)
 * 后端仓库：[westlake-backend](https://github.com/agiforgood/westlake-backend)
@@ -14,13 +14,13 @@
 
 ### 2️⃣ 齐家 App
 
-一个面向家庭关系优化的移动应用，融合心理学理念与交互式任务设计，支持教练式沟通训练。
+齐家 AI，免费、公益、开源的家庭心理教练。为每一个需要支持的家庭提供易用、温暖、专业的心理服务。
 
-* App: [qijia-app](https://github.com/agiforgood/qijia-app)
+* App: [齐家-app](https://github.com/agiforgood/qijia-app)
 
-### 3️⃣ 提示词工程（Prompt Engineering）
+### 3️⃣ 模型
 
-以提升 AI 辅助决策与内容生成质量为目标，开展提示词规范设计、对话数据标注与模型调优工作。
+齐家心理模型。
 
 * Agent System: [agent-system](https://github.com/agiforgood/agent-system)
 * LLM 评估前端: [llm-eval-web](https://github.com/agiforgood/llm-eval-web)
